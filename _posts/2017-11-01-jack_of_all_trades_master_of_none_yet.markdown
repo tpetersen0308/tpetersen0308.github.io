@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Jack Of All Trades, Master Of None (Yet)"
+date:       2017-11-01 19:58:33 +0000
+permalink:  jack_of_all_trades_master_of_none_yet
+---
+
+
+If I traced my footsteps, I could come up with a lot of reasons why I found myself almost a decade into an unfulfilling career and looking for alternatives, but I think the reason with the most explanatory power is probably also the most cliche: The classic "jack of all trades, master of none" thing. I've always had so many interests, and never was able to focus on just one thing long enough to become an expert. This left me with an amateur-to-intermediate level of skill in a multitude of subjects--enough to have a lot of fun, and occasionally impress people at parties, but not enough to get me a job doing something I thought of as valuable.
+
+When I realized a career in reality TV post-production was never going to offer the intellectual stimulation or gratification that I wanted to get out of a job, I started using my spare time at work to explore math and science. I majored in philosophy in college, with an emphasis on philosophy of science, which left me with enough of an understanding of principles and concepts in physics (amongst other sciences) to wish I had enough of a background in math to really get into the nitty-gritty of it. At that point, I hadn't taken a math class in ten years, so I started over at algebra and went through the rest of the math content on Khan Academy before enrolling in community college classes at night or early in the morning before work, thinking maybe I'd get another degree and become a physicist. 
+
+I didn't become a physicist. I guess I still could one day, but what studying math and physics (and some C++ and MATLAB along the way) revealed to me was what I really wanted out of a job. I realized that I've always had such a hard time choosing what to focus on because I was too focused on the job title itself, while the one common thread between all of my interests--philosophy, mathematics, physics, cognitive science, even KenKen and crossword puzzles--was my passion for creative problem solving. What I also realized was that it's hard to choose just one thing because it always makes me feel like I'm limiting myself to a single application of what's really just a talent for solving puzzles. 
+
+When I started getting more exposure to programming, I felt that I'd discovered a tool that would free me from that limitation. Here was something that gave me the intellectual stimulation I craved, that also has endless applications, thus freeing me from my anxieties about being stuck in one subject forever, when so many things fascinate me and capture my attention. I guess I could say that many of the reasons why I've always had such a hard time focusing on one thing are the same reasons why I chose to focus on programming. And yes, I do see the irony. In the broadest of strokes, though, it's the prospect of pursuing work that challenges me, and has a meaningful place in nearly every corner of our world. That feels like freedom to me. 
