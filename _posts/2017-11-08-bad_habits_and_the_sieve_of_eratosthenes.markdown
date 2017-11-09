@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Bad Habits And The Sieve Of Eratosthenes"
-date:       2017-11-09 01:24:38 +0000
+date:       2017-11-08 20:24:38 -0500
 permalink:  bad_habits_and_the_sieve_of_eratosthenes
 ---
 
