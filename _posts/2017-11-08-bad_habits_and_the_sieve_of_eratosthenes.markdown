@@ -47,7 +47,8 @@ Keep in mind, I wasn't simply triyng to populate an array with the primes up to 
 
 I had to do my job for a while after that, and then study some of the actual Flatiron curriculum, but knowing I could acheive the same result with more elegant code was bugging me, so I returned to it today and came up with this:
 
-```def seive_of_eratosthenes(n)
+```
+def seive_of_eratosthenes(n)
   range = (2..n).to_a
   primes = []
 
@@ -60,11 +61,13 @@ I had to do my job for a while after that, and then study some of the actual Fla
 
   primes
 
-end```
+end
+```
 
 I made some minor tweaks after that. I realized that starting the range at 3 makes more sense, because 2 will always be included in the collection of primes, but then I had to shovel the first element of the range array onto the primes array *after* iterating through the range or else the method would include 4 with the primes. I put the iterator on one line and this is what I landed on:
 
-```def sieve_of_eratosthenes(n)
+```
+def sieve_of_eratosthenes(n)
   range = (3..n).to_a
   primes = [2]
 
@@ -74,8 +77,8 @@ I made some minor tweaks after that. I realized that starting the range at 3 mak
   end
 
   primes
-end```
-
+end
+```
 
 It's almost the same process as the first version, just way more abstract and way more efficient. I spent a little more time trying to come up with a way to use a higher-level iterator in place of the #until block, but ultimately decided there's not really anything appropriate for an iterator to iterate through for that purpose. 
 
